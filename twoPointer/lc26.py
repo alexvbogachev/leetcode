@@ -8,7 +8,7 @@ class Solution(object):
                 l += 1
         return l
 
-# Solution that runs faster in leetcode
+# Solution that runs faster in leetcode but is O(n logn)
 class Solution(object):
     def removeDuplicates(self, nums):
         """
